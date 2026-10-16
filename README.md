@@ -1,4 +1,4 @@
-# tare101 · Clases y objetos en Java
+# java-clases-y-objetos
 
 Tarea en grupo de Programación Orientada a Objetos (Grupo 5, abril de 2022). Es
 la versión final de [java-primeras-clases](https://github.com/Whiteherobot/java-primeras-clases).
