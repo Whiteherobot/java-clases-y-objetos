@@ -30,8 +30,8 @@ public class Animales {
         var animal2 = new Animales();
         animal2.nombre="Jirafa";
         animal2.genero="Hembra";
-        animal1.edad="10";
-        animal1.peso="930";
+        animal2.edad="15";
+        animal2.peso="930";
         System.out.println("El nombre del animal es: "+animal2.nombre);
         System.out.println("El genero del animal es: "+animal2.genero);
         System.out.println("La edad del animal: "+animal2.edad);

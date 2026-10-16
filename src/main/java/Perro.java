@@ -26,7 +26,7 @@ public class Perro {
         System.out.println("El peso del perro es: "+perro1.peso);
         System.out.println("La edad del perro es: "+perro1.edad);
         
-       var perro2 = new Gato();
+       var perro2 = new Perro();
         perro2.raza="Pitbull";
         perro2.nombre="Chompiras";
         perro2.peso= "27";
