@@ -41,3 +41,5 @@ La versión trabajada de estos mismos conceptos está en
 
 - Michael Lata ([@Whiteherobot](https://github.com/Whiteherobot))
 - Gabriela Rocano
+
+Licencia MIT.
