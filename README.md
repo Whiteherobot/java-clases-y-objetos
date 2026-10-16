@@ -1,7 +1,7 @@
 # tare101 · Clases y objetos en Java
 
 Tarea en grupo de Programación Orientada a Objetos (Grupo 5, abril de 2022). Es
-la versión final de [Tarea1](https://github.com/Whiteherobot/Tarea1).
+la versión final de [java-primeras-clases](https://github.com/Whiteherobot/java-primeras-clases).
 
 El objetivo era practicar lo básico: definir una clase con atributos, crear
 varias instancias con `new` y mostrar sus datos por consola. Cada archivo es una
